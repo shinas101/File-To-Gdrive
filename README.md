@@ -1,2 +1,2 @@
-# LToG
-Links To Drive via Google colab
+#        🚀LToG 
+   Links To Drive via Google colab
