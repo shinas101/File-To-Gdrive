@@ -1,16 +1,29 @@
-#        🚀LToG 
-Links To Drive via Google colab
+#        🚀FToG 
+Files to Google Drive via Google colab notebook
 
-{
- "cell":[
-  {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/shinas101/LToG/blob/main/LToG.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    }
-}
+click the button below to run it
+
+<a href="https://colab.research.google.com/github/shinas101/LToG/blob/main/LToG.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+## HOW TO ?:
+1. click on "open in colab" button above.
+2. then follow the direction in the notebook.
+3. Paste your magnet/Direct download link. 
+
+## PROS:
+--Store old/favorite movies before the torrent dies.
+- High Dowload / Upload speed.
+    - Ping : 25.022
+    - Download in Bits: 1582483201.4089577
+    - Upload in Bits: 906503703.310623
+    - Download in Mb: 1582.48
+    - Upload  in Mb: 906.5
+- Direct Upload to Gdrive.
+- Bypass your ISP restriction on torrenting
+
+## CONS:
+- Google colab isn't meant for this kind of activities
+- Google drive space runs out
+
+## SCREENSHOTS:
