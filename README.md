@@ -12,7 +12,10 @@ click the button below to run it
 3. Paste your magnet/Direct download link. 
 
 ## PROS:
---Store old/favorite movies before the torrent dies.
+- Store old/favorite movies before the torrent dies.
+- Direct link download support.
+- Include Internet Speed tester.
+- Allows you to Zip files if you want to.
 - High Dowload / Upload speed.
     - Ping : 25.022
     - Download in Bits: 1582483201.4089577
@@ -27,3 +30,9 @@ click the button below to run it
 - Google drive space runs out
 
 ## SCREENSHOTS:
+![FToG](https://i.imgur.com/ulvxQYh.png)
+![FToG](https://i.imgur.com/Ft3cRqs.png)
+![FToG](https://i.imgur.com/gXk1a9q.png)
+
+
+
