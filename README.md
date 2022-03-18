@@ -1,5 +1,5 @@
 #        🚀FToG 
-Files to Google Drive via Google colab notebook
+Torrent Files to Google Drive via Google colab notebook
 
 click the button below to run it
 
@@ -33,6 +33,6 @@ click the button below to run it
 ![FToG](https://i.imgur.com/ulvxQYh.png)
 ![FToG](https://i.imgur.com/Ft3cRqs.png)
 ![FToG](https://i.imgur.com/gXk1a9q.png)
-
+<!--- shinas --->
 
 
